@@ -1,9 +1,9 @@
 ﻿using HarmonyLib;
 using NeosModLoader;
 
-namespace ModNameGoesHere
+namespace NoPeterGriffin
 {
-    public class ModNameGoesHere : NeosMod
+    public class Main : NeosMod
     {
         public override string Name => "ModNameGoesHere";
         public override string Author => "username";
